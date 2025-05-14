@@ -9,8 +9,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Super SaaS Template",
-  description: "SaaS template with landing page, dashboard, and more",
+  title: "Agentes de Conversão",
+  description: "",
 };
 
 export default function RootLayout({

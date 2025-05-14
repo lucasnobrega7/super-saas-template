@@ -8,7 +8,7 @@ export default function ConsoleNav() {
       <div className="max-w-console-width mx-auto flex items-center justify-between w-full">
         <div className="flex items-center gap-2">
           <Link href="/">
-            <div className="text-2xl font-bold">Acme</div>
+            <div className="text-2xl font-bold">Agentes de Conversão</div>
           </Link>
         </div>
         <div className="flex items-center gap-2">
