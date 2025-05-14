@@ -1,5 +1,4 @@
 import { cn } from "@/utils/styles";
-import { Button } from "@repo/ui";
 
 export default function ProductCard({
   title,
