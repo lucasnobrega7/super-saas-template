@@ -3,5 +3,8 @@
     {
       "mode": "auto"
     }
-  ]
+  ],
+  "github.copilot.chat.completionContext.typescript.mode": "on",
+  "css.autoValidation": "Always"
 }
+
